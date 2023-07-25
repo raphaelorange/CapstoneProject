@@ -2,7 +2,7 @@ CMDA Capstone: Demonstrating Eigenvalues with a Multi Pass Pendulum
 
 Project Description:
 
-In a cross-disciplinary project, my Capstone group replicated and modernized Daniel Bernoulli's 1733 experiment on the motion of a pendulum with multiple masses, leveraging a combination of data science, image processing, and physical experimentation. This project, aimed at illuminating the concepts of eigenvalues and eigenvectors, was designed as an educational tool for use in CMDA 3605 classes.
+In a cross-disciplinary project, my Capstone group replicated and modernized Daniel Bernoulli's 1733 experiment on the motion of a pendulum with multiple masses, leveraging a combination of data science, image processing, and physical experimentation. This project, aimed at illuminating the concepts of eigenvalues and eigenvectors, was designed as an educational tool for use in CMDA Math-Modeling classes.
 
 Key Responsibilities and Achievements:
 
