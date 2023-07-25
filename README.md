@@ -14,8 +14,6 @@ Mathematical Modeling: Leveraged knowledge of dynamical systems to understand an
 
 Data Analysis: Applied Fourier analysis on the experimental data to identify the fundamental frequencies of vibration, confirming the predicted eigenvalues of the physical system.
 
-Instructional Material Development: Created an easy-to-follow instruction manual for deploying the experiment and conducting the analysis in a classroom setting, packaging the apparatus, and analysis for practical educational use.
-
 Software Development: Developed robust data acquisition and analysis codebase in MATLAB/Python, contributing to the project's tangible deliverables.
 
 This project demonstrates my capabilities in scientific programming, data analysis, mathematical modeling, and physical experimentation. It showcases my ability to apply data science techniques to real-world problems, validate theoretical models with experimental data, and produce user-friendly resources for educational purposes. It also highlights my experience with image processing, Fourier analysis, and the use of MATLAB/Python for scientific computation.
